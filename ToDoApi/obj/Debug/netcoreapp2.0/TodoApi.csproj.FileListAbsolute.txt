@@ -1,0 +1,10 @@
+C:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+c:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+c:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+c:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+c:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+c:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+c:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+c:\Users\Shaun Smith\Documents\Projects\InteractIntranetAPIDemo\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb

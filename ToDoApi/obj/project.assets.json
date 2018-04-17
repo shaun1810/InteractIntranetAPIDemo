@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shaun Smith\\Documents\\Projects\\InteractIntranetAPIDemo\\ToDoList\\ToDoList.csproj",
-      "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\Shaun Smith\\Documents\\Projects\\InteractIntranetAPIDemo\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "c:\\Users\\Shaun Smith\\Documents\\Projects\\InteractIntranetAPIDemo\\TodoApi\\TodoApi.csproj",
+      "projectName": "TodoApi",
+      "projectPath": "c:\\Users\\Shaun Smith\\Documents\\Projects\\InteractIntranetAPIDemo\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Shaun Smith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shaun Smith\\Documents\\Projects\\InteractIntranetAPIDemo\\ToDoList\\obj\\",
+      "outputPath": "c:\\Users\\Shaun Smith\\Documents\\Projects\\InteractIntranetAPIDemo\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
